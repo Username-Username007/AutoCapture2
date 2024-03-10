@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AutoCapture", "AutoCapture\AutoCapture.vcxproj", "{1AF2C2EB-A7FB-47F4-BCAF-4FC68B6F8259}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AF2C2EB-A7FB-47F4-BCAF-4FC68B6F8259}.Debug|ARM.ActiveCfg = Debug|ARM
+		{1AF2C2EB-A7FB-47F4-BCAF-4FC68B6F8259}.Debug|ARM.Build.0 = Debug|ARM
+		{1AF2C2EB-A7FB-47F4-BCAF-4FC68B6F8259}.Debug|x64.ActiveCfg = Debug|x64
+		{1AF2C2EB-A7FB-47F4-BCAF-4FC68B6F8259}.Debug|x64.Build.0 = Debug|x64
+		{1AF2C2EB-A7FB-47F4-BCAF-4FC68B6F8259}.Release|ARM.ActiveCfg = Release|ARM
+		{1AF2C2EB-A7FB-47F4-BCAF-4FC68B6F8259}.Release|ARM.Build.0 = Release|ARM
+		{1AF2C2EB-A7FB-47F4-BCAF-4FC68B6F8259}.Release|x64.ActiveCfg = Release|x64
+		{1AF2C2EB-A7FB-47F4-BCAF-4FC68B6F8259}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93E05B9C-BE9B-40A8-8BCB-EF8E28686DF4}
+	EndGlobalSection
+EndGlobal

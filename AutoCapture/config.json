@@ -1,0 +1,34 @@
+{
+
+  "listenPort": 3324,
+  "handshakeBits": "ff3324ff",
+  "refuseConnectionBits": "ff3325ff",
+  "logLevelColor": {
+    "-1": "green",
+    "0": "black",
+    "1": "rgb(248, 220, 65)",
+    "2": "red"
+  },
+
+  "connectTimeout": 5000,
+  "queryPerThread": 2,
+  "whatsYourStatus": "ff3327ff",
+  "goodToConnect": "ff 33 27 ff",
+  "alreadyConnected": "ff 33 28 ff",
+  "statusTimeout": 1000,
+  "updateNetNeighborInterval": 30000,
+
+  "binaryMessage":  "ff 00 00 ff",
+
+
+  "hexConfigs": [
+    "handshakeBits",
+    "refuseConnectionBits",
+    "whatsYourStatus",
+    "goodToConnect",
+    "alreadyConnected",
+    "binaryMessage"
+  ]
+
+
+}
